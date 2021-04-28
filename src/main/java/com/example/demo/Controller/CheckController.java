@@ -34,11 +34,6 @@ public class CheckController {
 		return bookingMapper.getBooking(phoneNumber);
 	}
 
-	/*
-	 * @GetMapping("/check") public int getCount(@RequestParam("phoneNumber") String
-	 * phoneNumber) { System.out.println("@@@@@@@@@@@@@@@@@@");
-	 * System.out.println(bookingMapper.getCount(phoneNumber)); return
-	 * bookingMapper.getCount(phoneNumber); }
-	 */
+	
 
 }

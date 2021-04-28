@@ -39,13 +39,6 @@ public class FinishController {
 		return seatsMapper.updateRestSeats(restSeats, time);
 	}
 	
-	//핸드폰 번호로 방금 예매 내역 확인
-	/*
-	@GetMapping("/finish")
-	public Booking getMovie(@RequestParam("phoneNumber") String phoneNumber) {
-		System.out.println("^^^^^^^^^^^^^^^");
-		return bookingMapper.getBooking(phoneNumber);
-	}*/
 	
 	
 	

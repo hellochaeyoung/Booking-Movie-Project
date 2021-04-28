@@ -25,16 +25,4 @@ public interface MovieMapper {
 	List<String> getMovieTimes(@Param("movieName") String movieName);
 	
 	
-	
-	
-	/*
-	//상영관, 전체좌석 가져오기
-	@Select("SELECT hall_number, total_seats FROM theater WHERE theater_id = #{theaterID}")
-	String getMovieTheater(@Param("theaterId") String theaterId);
-	
-	//상영시간, 잔여좌석 가져오기
-	@Select("SELECT time, rest_seats FROM time WHERE movie_id = #{movieID}")
-	List<String> getMovieTime(@Param("movieID") String movieId);
-	//DB int -> String 변경 필요*/
-	
 }

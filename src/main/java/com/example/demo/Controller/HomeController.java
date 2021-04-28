@@ -38,12 +38,7 @@ public class HomeController {
 		return mapper.getRests(movieName, time);
 	}
 	
-	//영화 상영시간 정보 -> 나중에 페이지에 뿌려주기, 버튼으로
-	//homeController
-	/*@PostMapping("/{movieName}")
-	public List<String> getMovieTimes(@PathVariable("movieName") String movieName) {
-		return mapper.getMovieTimes(movieName);
-	}*/
+	
 	
 	
 	
