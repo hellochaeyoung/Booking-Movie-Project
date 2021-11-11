@@ -1,24 +1,23 @@
-# project2
+## Vue.js로 영화 예매 사이트 구현하기
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. 목적
+   - 프론트엔드 언어(vue.js, javascript, html) 공부하고자 작은 프로젝트 구현
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+2. 기능
+    (1) 상영 영화 목록 및 상영 시간을 확인 가능
+    (2) 원하는 영화, 시간, 좌석을 선택 가능
+    (3) 영화 예매 내역 확인 가능
+    (4) 본인의 현재까지의 예매 내역 확인 가능
+    
+    
+3. 기술 스택
+   - 언어 : vue.js, javascript, html
+   - 툴 : vscode, git
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+4. 의의
+   - 단순 프론트만 구현한 것이 아닌 백도 함께 구현하여 작은 프로젝트를 혼자 진행해 본 경험이 되었다.
+   - 백과 함께 구현하니 Vue라는 언어의 동작 원리를 더 깊게 알 수 있었다.
+   - 프론트엔드가 미숙하다 보니 UI의 부족함, 화면 기능 구현의 어려움을 많이 느낄 수 있었다.
