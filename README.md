@@ -12,9 +12,10 @@
     - 본인의 현재까지의 예매 내역 확인 가능
     
     
-3. 기술 스택
-   - 언어 : vue.js, javascript, html
-   - 툴 : vscode, git
+3. 기술 스택 
+   - Front : vue.js, javascript, html
+   - Back : Spring Boot, java
+   - 툴 : vscode, eclipse, git
 
 
 4. 의의
